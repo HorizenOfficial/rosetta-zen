@@ -22,7 +22,7 @@ MAINTAINER cronic@horizen.io
 SHELL ["/bin/bash", "-c"]
 
 # Latest release zen 5.0.7
-ARG ZEN_COMMITTISH=v6.0.0-rc1
+ARG ZEN_COMMITTISH=v6.0.0
 ARG IS_RELEASE=false
 # cronic <cronic@zensystem.io> https://keys.openpgp.org/vks/v1/by-fingerprint/219F55740BBF7A1CE368BA45FB7053CE4991B669
 # Luigi Varriale <luigi@horizenlabs.io> https://keys.openpgp.org/vks/v1/by-fingerprint/FC3388A460ACFAB04E8328C07BB2A1D2CFDFCD2C
